@@ -1,2 +1,2 @@
-# UPX5
+# Tertius
 Projeto de UPX5 - Transformação Digital
