@@ -1,0 +1,13 @@
+# Ignorar o ambiente virtual
+venv/
+
+# Ignorar o banco de dados do Django
+db.sqlite3
+
+# Ignorar arquivos temporários do Python
+*.pyc
+__pycache__/
+
+# Ignorar logs e arquivos de sistema
+*.log
+.DS_Store
