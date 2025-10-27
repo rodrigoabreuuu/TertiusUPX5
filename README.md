@@ -36,15 +36,15 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/lucasgalv%C3%A3o/" target="_blank" title="Perfil do Lucas no LinkedIn">
-        <img src="https://media.licdn.com/dms/image/v2/D4D35AQEcMBMcnxsxkQ/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1736889160873?e=1759593600&v=beta&t=hRh1tIoWS4byL7CXd5wygS1JXHNzfn-td8HtyRcY98I" width="100px;" alt="Foto do Lucas no LinkedIn"/><br>
+        <img src="assets/perfilLucas.jpeg" width="100px;" alt="Foto do Lucas Galvão no LinkedIn"/><br>
         <sub>
           <b>Lucas Galvão</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/rodrigoabreuuu/" target="_blank" title="Perfil do Rodrigo no LinkedIn">
-        <img src="assets/perfilRodrigo.jpeg" width="100px;" alt="Foto do Rodrigo no LinkedIn"/><br>
+      <a href="[https://www.linkedin.com/in/amanda-galv%C3%A3o-dos-santos-aa316a290/](https://www.linkedin.com/in/rodrigoabreuuu/)" target="_blank" title="Perfil da Amanda no LinkedIn">
+        <img src="assets/perfilRodrigo.jpeg" width="100px;" alt="Foto do Rodrigo Abreu no LinkedIn"/><br>
         <sub>
           <b>Rodrigo Abreu</b>
         </sub>
