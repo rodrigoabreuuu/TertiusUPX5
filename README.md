@@ -43,7 +43,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="[https://www.linkedin.com/in/amanda-galv%C3%A3o-dos-santos-aa316a290/](https://www.linkedin.com/in/rodrigoabreuuu/)" target="_blank" title="Perfil da Amanda no LinkedIn">
+      <a href="https://www.linkedin.com/in/rodrigoabreuuu/" target="_blank" title="Perfil do Rodrigo no LinkedIn">
         <img src="assets/perfilRodrigo.png" width="100px;" alt="Foto do Rodrigo Abreu no LinkedIn"/><br>
         <sub>
           <b>Rodrigo Abreu</b>
