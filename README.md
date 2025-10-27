@@ -44,7 +44,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/rodrigoabreuuu/" target="_blank" title="Perfil do Rodrigo no LinkedIn">
-        <img src="https://media.licdn.com/dms/image/v2/D4E03AQHs_xC2Xe_MgQ/profile-displayphoto-shrink_800_800/B4EZUoXQBqHgAc-/0/1740138939168?e=1761782400&v=beta&t=plHhepTYwa5m97Ro_A9OpSeFtjIZxcwjiURuMaoU4hM" width="100px;" alt="Foto do Rodrigo no LinkedIn"/><br>
+        <img src="[https://media.licdn.com/dms/image/v2/D4E03AQHs_xC2Xe_MgQ/profile-displayphoto-shrink_800_800/B4EZUoXQBqHgAc-/0/1740138939168?e=1761782400&v=beta&t=plHhepTYwa5m97Ro_A9OpSeFtjIZxcwjiURuMaoU4hM](https://drive.google.com/file/d/161uvX1tnEz5ExAJ23zmM6CQD1e_PBIB5/view)" width="100px;" alt="Foto do Rodrigo no LinkedIn"/><br>
         <sub>
           <b>Rodrigo Abreu</b>
         </sub>
