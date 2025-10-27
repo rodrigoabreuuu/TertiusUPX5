@@ -28,7 +28,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/amanda-galv%C3%A3o-dos-santos-aa316a290/" target="_blank" title="Perfil da Amanda no LinkedIn">
-        <img src="https://media.licdn.com/dms/image/v2/D4E03AQE4I7HYFSp7og/profile-displayphoto-shrink_800_800/B4EZbHfYa3HYAc-/0/1747103615990?e=1761782400&v=beta&t=cNKEfkCQGquifr_6_qwWPsfEoVTg5XajLqRvAhLTBHM" width="100px;" alt="Foto da Amanda no LinkedIn"/><br>
+        <img src="assets/perfilAmanda.jpeg" width="100px;" alt="Foto da Amanda no LinkedIn"/><br>
         <sub>
           <b>Amanda Galvão</b>
         </sub>
