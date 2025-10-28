@@ -28,7 +28,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/amanda-galv%C3%A3o-dos-santos-aa316a290/" target="_blank" title="Perfil da Amanda no LinkedIn">
-        <img src="assets/perfilAmanda.jpeg" width="100px;" alt="Foto da Amanda no LinkedIn"/><br>
+        <img src="https://i.imgur.com/sFHUvTu.jpeg" width="100px;" alt="Foto da Amanda no LinkedIn"/><br>
         <sub>
           <b>Amanda Galvão</b>
         </sub>
@@ -36,7 +36,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/lucasgalv%C3%A3o/" target="_blank" title="Perfil do Lucas no LinkedIn">
-        <img src="assets/perfilLucas.png" width="100px;" alt="Foto do Lucas Galvão no LinkedIn"/><br>
+        <img src="https://i.imgur.com/MqIWdRL.png" width="100px;" alt="Foto do Lucas Galvão no LinkedIn"/><br>
         <sub>
           <b>Lucas Galvão</b>
         </sub>
@@ -44,7 +44,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/rodrigoabreuuu/" target="_blank" title="Perfil do Rodrigo no LinkedIn">
-        <img src="assets/perfilRodrigo.png" width="100px;" alt="Foto do Rodrigo Abreu no LinkedIn"/><br>
+        <img src="https://i.imgur.com/v8NUHxj.png" width="100px;" alt="Foto do Rodrigo Abreu no LinkedIn"/><br>
         <sub>
           <b>Rodrigo Abreu</b>
         </sub>
