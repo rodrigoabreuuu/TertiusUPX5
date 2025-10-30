@@ -73,18 +73,16 @@ WSGI_APPLICATION = 'core.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
 
+import dj_database_url
 
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'postgres',
-        'USER': 'postgres',
-        'PASSWORD': 'jacare2025',
-        'HOST': 'db.blrdmsxtwxkxjoeaipja.supabase.co',
-        'PORT': '5432',
-    },
+    'default': dj_database_url.parse(
+        # SUBSTITUA PELA NOVA SENHA, SEM CODIFICAÇÃO!
+        'postgresql://postgres:leaomarinho2025@db.blrdmsxtwxkxjoeaipja.supabase.co:5432/postgres', 
+        conn_max_age=600,
+        ssl_require=True
+    )
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/5.2/ref/settings/#auth-password-validators
