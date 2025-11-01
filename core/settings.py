@@ -77,7 +77,6 @@ import dj_database_url
 
 DATABASES = {
     'default': dj_database_url.parse(
-        # SUBSTITUA PELA NOVA SENHA, SEM CODIFICAÇÃO!
         'postgresql://postgres:leaomarinho2025@db.blrdmsxtwxkxjoeaipja.supabase.co:5432/postgres', 
         conn_max_age=600,
         ssl_require=True

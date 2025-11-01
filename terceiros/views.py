@@ -17,7 +17,7 @@ def lista_colaboradores(request):
     }
     return render(request, 'terceiros/lista_colaboradores.html', context)
 
-def exportar_colaboradores_csv(request):
+def exportar_colaboradores_csv(modeladmin, request, queryset):
     # 1. Configura a resposta HTTP como um arquivo CSV
     response = HttpResponse(content_type='text/csv')
     response['Content-Disposition'] = 'attachment; filename="colaboradores.csv"'
