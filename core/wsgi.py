@@ -2,7 +2,7 @@ import os
 import sys
 
 # Caminho até a pasta do projeto
-path = '/home/tertiusupx5/TertiusUPX5'
+path = '/home/tertiusupx5/Tertius'
 if path not in sys.path:
     sys.path.insert(0, path)
 
