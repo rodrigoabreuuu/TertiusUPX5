@@ -14,11 +14,11 @@ Melhorias Planejadas:
 
 ### Aplicativo
 
-Video Funcional.
+Video Funcional
 
 ### Frontend
 
-### Backend 
+### Backend
 
 ## 🤝 Colaboradores
 
