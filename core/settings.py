@@ -76,11 +76,18 @@ WSGI_APPLICATION = 'core.wsgi.application'
 import dj_database_url
 
 DATABASES = {
-    'default': dj_database_url.parse(
-        'postgresql://postgres:leaomarinho2025@db.blrdmsxtwxkxjoeaipja.supabase.co:5432/postgres', 
-        conn_max_age=600,
-        ssl_require=True
-    )
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'neondb',
+        'USER': 'neondb_owner',
+        'PASSWORD': 'npg_ZAgBt9DcROS0',
+        'HOST': 'ep-small-water-ac63gxhy-pooler.sa-east-1.aws.neon.tech',
+        'PORT': '5432',
+        'OPTIONS': {
+            'sslmode': 'require',
+            'channel_binding': 'require',
+        },
+    }
 }
 
 # Password validation
