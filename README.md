@@ -31,8 +31,11 @@ Melhorias Planejadas:
 1 - Acesse: https://tertiusupx5.pythonanywhere.com/admin/
 
 2 - Usuário: admin / Senha: admin
+
 3 - Na aba Grupos, os administradores podem criar diferentes tipos de grupos. Por exemplo: “Moderadores” podem incluir colaboradores, mas não podem deletar ou alterar.
+
 4 - Na aba Usuários, os administradores podem criar novos usuários, como novos moderadores.
+
 5 - Na aba Colaboradores, é possível adicionar, alterar ou excluir colaboradores do banco de dados.
 
 Para visualizar como o usuário final enxerga o sistema, os dados cadastrados aparecem na página principal — que ainda está em construção.
